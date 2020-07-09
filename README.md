@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi traveller 🌌
 
 My name is Valentyn and I'm junior C#/Unity dev.
 
