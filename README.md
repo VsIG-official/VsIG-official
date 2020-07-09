@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Valentyn and I'm junior C#/Unity dev.
+
+- 🌱 I’m currently working on My skills to write good code using documentations, good sites about programming, YouTube videos and courses on Coursera.
+
+- 📫 How to reach me: My telegram is https://t.me/VsIG_official
 <!--
 **VsIG-official/VsIG-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
