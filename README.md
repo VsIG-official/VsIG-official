@@ -6,7 +6,7 @@ My name is Valentyn and I'm junior C#/Unity dev.
 
 - 📫 How to reach me: My telegram is https://t.me/VsIG_official
 
-https://raw.githubusercontent.com/VsIG-official/Images/master/Logo2smol.png?token=AL7QWX2PDBSAXHTWRII55ZK7CCAKK
+<a href="https://github.com/VsIG-official/Images/blob/master/Logo2smol.png"><img src="https://github.com/VsIG-official/Images/blob/master/Logo2smol.png" title="VsIG" alt="VsIG"></a>
 <!--
 **VsIG-official/VsIG-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
