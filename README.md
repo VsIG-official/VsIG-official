@@ -13,6 +13,7 @@ My name is Valentyn and I'm junior C#/Unity dev.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://unity.com/" target="_blank"> <img src="https://lh3.googleusercontent.com/proxy/yrAN6I2FL-GdTsLBk6paeidQ9lYczzycOx4XzGAb9E0ycqIm-XttPE-NtHHuJNTFT0VxCEOB601g9wZR1HQcsRvspiKc3kX82k81x0UydlnSdt2eKqk" alt="unity" width="40" height="40"/> </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/> </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".Net" width="40" height="40"/> </a>
   <a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="Microsoft SQL Server Manager" width="40" height="40"/> </a> 
