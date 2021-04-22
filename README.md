@@ -8,8 +8,6 @@ My name is Valentyn and I'm junior C#/Unity dev.
 
 - 🌱 I’m currently working on My skills to write good code using documentations, good sites about programming, YouTube videos and courses on Coursera.
 
-- 📫 How to reach me: My telegram is https://t.me/VsIG_official
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
