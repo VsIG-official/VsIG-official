@@ -27,3 +27,10 @@ My name is Valentyn and I'm junior C#/Unity dev.
 <p align="center">
   <img src="https://github.com/VsIG-official/Images/blob/master/LogoFinalWhite.png" data-canonical-src="https://github.com/VsIG-official/Images/blob/master/LogoFinalWhite.png" width="200" height="100" />
 </p>
+
+<p align="center">
+	<a href="mailto:valentyn2202@gmail.com" target="_blank" title="Mail"><img align="center" src="https://github.com/VsIG-official/VsIG-official/blob/master/Images/gmail.png" alt="valentyn2202@gmail.com" height="30" width="30" /></a>
+	<a href="https://www.instagram.com/vsig_official/" target="_blank" title="Instagram"><img align="center" src="https://github.com/VsIG-official/VsIG-official/blob/master/Images/Instagram.png" alt="https://www.instagram.com/vsig_official/" height="30" width="30" /></a>
+	<a href="https://t.me/VsIG_official" target="_blank" title="Telegram"><img align="center" src="https://github.com/VsIG-official/VsIG-official/blob/master/Images/telegram.png" alt="https://t.me/VsIG_official" height="30" width="30" /></a>
+	<a href="https://www.linkedin.com/in/valentyn-dominskyi-34951a1aa/" target="_blank" title="LinkedIn"><img align="center" src="https://github.com/VsIG-official/VsIG-official/blob/master/Images/linkedin.png" alt="https://www.linkedin.com/in/valentyn-dominskyi-34951a1aa/" height="30" width="30" /></a>
+</p>
