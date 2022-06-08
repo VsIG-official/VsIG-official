@@ -6,10 +6,10 @@ My name is Valentyn and I'm junior C#/Unity dev.
   <img src="https://github-readme-stats.vercel.app/api?username=VsIG-official&count_private=true&show_icons=true&theme=radical" data-canonical-src="https://github-readme-stats.vercel.app/api?username=VsIG-official&count_private=true&show_icons=true&theme=radical" />
 </p>
 
-- 🌱 I’m currently working on My skills to write good code using documentations, good sites about programming, YouTube videos and courses on Coursera.
+## [My Projects](https://github.com/VsIG-official?tab=repositories)
 
 ## Languages and Tools:
-<p align="left"> 
+<p align="center"> 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://unity.com/" target="_blank"> <img src="https://github.com/VsIG-official/Images/blob/master/Unity_3D.png" alt="unity" width="40" height="40"/> </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/> </a>
@@ -19,6 +19,8 @@ My name is Valentyn and I'm junior C#/Unity dev.
 <p align="center">
   <img src="https://github.com/VsIG-official/Images/blob/master/LogoFinalWhite.png" data-canonical-src="https://github.com/VsIG-official/Images/blob/master/LogoFinalWhite.png" width="200" height="100" />
 </p>
+
+### How to find Me:
 
 <p align="center">
 	<a href="mailto:valentyn2202@gmail.com" target="_blank" title="Mail"><img align="center" src="https://github.com/VsIG-official/VsIG-official/blob/master/Images/gmail.png" alt="valentyn2202@gmail.com" height="30" width="30" /></a>
