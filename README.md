@@ -16,10 +16,6 @@ My name is Valentyn and I'm junior C#/Unity dev.
   <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".Net" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/VsIG-official/Images/blob/master/LogoFinalWhite.png" data-canonical-src="https://github.com/VsIG-official/Images/blob/master/LogoFinalWhite.png" width="200" height="100" />
-</p>
-
 ### How to find Me:
 
 <p align="center">
