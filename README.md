@@ -1,6 +1,6 @@
 ## Hi traveller 🌌
 
-My name is Valentyn and I'm junior C#/Unity dev.
+My name is Valentyn and I'm C#/Unity dev.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VsIG-official&count_private=true&show_icons=true&theme=radical" data-canonical-src="https://github-readme-stats.vercel.app/api?username=VsIG-official&count_private=true&show_icons=true&theme=radical" />
